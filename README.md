@@ -1,12 +1,26 @@
-## Hey there 👋
-Nice to meet you!
+# :man_technologist:
 
-My name is Julio, and I work as a front-end developer. :man_technologist:  
-I'm currently democratizing the delivery service over the interior of Brazil and fostering entrepreneurship at [Delivery Much](https://github.com/delivery-much).
+```
+            . .:;                                                                                                      
+     .      .llxk'                                                                                                      
+  .:kKkc,.   oNNo                                                                                     .;xOo,..          
+  ,lkNNO:.   oWNl                                                       ...                           ,dKWWO:.          
+     ,,.     oWWl                                                     .cd;.                             .::.            
+     .       oWWl              .                               .      :Kx.                               .              
+  .:k0o,,.   oWWl         ..,lO0x;',.   ;kOoc;;:ll.        .':x0kc',. ;KW0ko.  'oOk;.'.     ..;oOk,   .:k0o,,.          
+ .:dXMWO:.   oWWl     ,oxxo::cxNMNx,  .:x0XXKOO0k,   .cddxdc::oKWW0c.  ,xNMX; 'lONMNk:. .;lk0klxXMXo..:dKMW0c.          
+   .kMNc     oWWl     .OMX;   .kMN:   .......,lc.    .oXNWo.   cNMx.    .OMX;   .kMNc    .lNWd. ;OWWO;  oWWd.           
+ ..,OMWd....'xWWd'....;OMXl...,OMNo......,;;lkkloc...'dNWWx'...oNMk,....;0MNl...,kMNo.....oNMk,.'oK0o;.'xWWk,..         
+ ';l0MWk:;;;:OMWk:;;;;lKMNd;;;c0MNx:;;:dkx0Kkddol:;;;:kNWWOc;;:xWM0c;;;;lKMNd;;;c0MNx:;;;:xWMXOxlcc:;;;:kWMOc;'         
+   .xMNc     oWWl     .kMX;   .xMN:    .';l;          lXNWo    cNMd.    .OMX;   .dWXc     cNMO;.        lWWd.           
+   .xMNc    'kMWd''.  ,0MNx' .,OWNo.   .cdc:clc;''.  .dNWW0:. .oNWO'    ;KMNo. .,kWXd.   .oWMk'  .;;.   lNM0:'.         
+   .xWW0c. ,lxXMXd;. ,lxXWWKdccc:;'.  .dkooxOKNW0c. .:dx0WMNklcc:;,.   ,lxKWNkc;,,,''.  .cxKWWKo:;'     ,0WNx;.         
+    .lOWNo.   'c;.      .:l;.         .,.    .,c,       .;lc.             .:l,.            .;lc'         'c,            
+      .kWk.                                                                                                             
+      .k0;                                                                                                              
+     .od'                                                                                                               
+    'oc.                                                                                                                
+    ,,      
+```
 
-To know more about my work, take a look on [my repos](https://github.com/jlozovei?tab=repositories) or go to my website:  
-[jlozovei.dev](https://jlozovei.dev) :globe_with_meridians:
-
-There you'll find my portfolio and some of my thoughts over technology and development. :books:
-
-See ya! :metal:
+[jlozovei.dev](https://jlozovei.dev/) | [LinkedIn](https://www.linkedin.com/in/jlozovei/)
