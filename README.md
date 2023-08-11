@@ -27,4 +27,3 @@
 
 - :earth_americas: [Website](https://jlozovei.dev/) 
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/jlozovei/)  
-- :bird: [Twitter](https://twitter.com/juliolozovei)  
